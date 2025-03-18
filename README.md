@@ -4,7 +4,7 @@
 1. [Local branch to remote](#1-create-local-branch-then-push-it-remotely)
 2. [Two Branches](#2-create-2-branches)
 3. [Merge Changes on Main](#3-merge-changes-on-main)
-4. [Annotated Tag](#4-create-and-annotated-tag)
+4. [Annotated Tag](#4-create-an-annotated-tag)
 
 
 ## 1. Create Local Branch Then Push it Remotely
